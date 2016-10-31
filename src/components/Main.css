@@ -1,0 +1,23 @@
+.container-fluid {
+    background-size: cover;
+    background-image: url(./pattern.svg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: auto;
+
+}
+
+.header {
+  background-color: rgba(252, 90, 44, 0.89);
+  height: 100%;
+  width: 100%;
+  padding: 5px;
+  color: white;
+}
+
+.title {
+  color: white;
+}
